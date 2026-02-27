@@ -15,8 +15,8 @@ Creates a new user.
 
 Example Request:
 {
-  "name": "John Doe",
-  "email": "john@email.com",
+  "name": "Pratyush Baral",
+  "email": "pratyushbaral@email.com",
   "password": "123456",
   "role": "student"
 }
