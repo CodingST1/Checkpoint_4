@@ -1,0 +1,12 @@
+studentwell-api/
+│
+├── server.js
+├── db.js
+├── package.json
+├── schema.sql
+│
+├── routes/
+│   ├── users.js
+│   └── appointments.js
+│
+└── README.md
