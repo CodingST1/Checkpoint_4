@@ -1,3 +1,4 @@
+const authenticate = require('../authmiddleware');
 const express = require('express');
 const router = express.Router();
 const { sql, pool, poolConnect } = require('../db');
